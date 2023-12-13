@@ -13,7 +13,7 @@ This is a Python script to fetch and process data from the Dehashed API. The scr
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/dehashed-api-tool.git
+git clone https://github.com/JPG0mez/dehashed-parser.git
 ```
 
 2. Install the required dependencies:
